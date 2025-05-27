@@ -13,12 +13,12 @@ GitHub: [Hastane Sistemi](https://github.com/Selami7321/hastane-sistemi)
 
 ---
 
-### 2. *Doğru Oturuş Tahmin Modeli (Makine Öğrenmesi)*
-- CVAT ile oluşturulmuş iskelet verisi üzerinden oturuş tahmini yapan model.
+### 2. *Fare Hareketlerinden Stres ve Hormonal Değişim Tahmin Modeli (Makine Öğrenmesi)*
+- CVAT ile oluşturulmuş iskelet verisi üzerinden stres seviyesi ve hormonal değerleri tahmini yapan model.
 - Kullanılan Algoritma: RandomForestClassifier
 - Ortam: Google Colab
 
-GitHub: [Posture Prediction](https://github.com/Selami7321/posture-prediction)
+GitHub: [Posture Prediction](https://github.com/Selami7321/Fare-Hareketlerinden-Stres-ve-Anksiyete-Tahmini)
 
 ---
 
