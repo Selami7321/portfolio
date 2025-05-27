@@ -26,8 +26,8 @@ GitHub: [Posture Prediction](https://github.com/Selami7321/Fare-Hareketlerinden-
 - Eğitim amaçlı oluşturulmuş örnek web siteleri.
 - Mobil uyumlu, responsive tasarımlar.
 
-GitHub: [Web Tasarım Çalışmaları](https://github.com/Selami7321/web-design-examples)
-
+GitHub: [Web Tasarım Çalışmaları](https://github.com/Selami7321/My-restaurant-website-)
+s
 ---
 
 ## Hakkımda
