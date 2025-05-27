@@ -9,7 +9,7 @@ Merhaba, ben Selami Çetin. Yazılım geliştirme alanında çalışıyor ve pro
 - Front-end: HTML/CSS + JavaScript
 - Veritabanı: SQL Server
 
-GitHub: [Hastane Sistemi](https://github.com/Selami7321/hastane-sistemi)
+GitHub: [Hastane Sistemi](https://github.com/Selami7321/hastaneveritabani)
 
 ---
 
